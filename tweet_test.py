@@ -1,5 +1,9 @@
 #coding=utf-8
 
+'''
+assignment R2-3, track interesting message in Twitter by using twython.
+'''
+
 from twython import TwythonStreamer
 def count():
 	global n
