@@ -1,3 +1,5 @@
+#coding=utf-8
+
 from twython import TwythonStreamer
 def count():
 	global n
